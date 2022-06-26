@@ -1,6 +1,9 @@
-# insurance-calc
+# Insurance calculator
 
-This template should help get you started developing with Vue 2 in Vite.
+A simple responsive webpage that provides an insurance calculator function based on the priklad_CP_js.xlsx table.
+The amount is calculated automatically after the user fills all the required fields.
+
+Made with Vue 2 and Vuetify.
 
 ## Recommended IDE Setup
 
